@@ -1,10 +1,10 @@
 # Pomodoro Timer
 
-Welcome to the Pomodoro Timer repository! This simple Pomodoro timer is designed to help you manage your time effectively and boost productivity by using the popular Pomodoro technique.
+Welcome to the Pomodoro Timer! This simple Pomodoro timer is designed to help you manage your time effectively and boost productivity by using the popular Pomodoro technique.
 
 ## Features
 
-- **Pomodoro Technique**: The timer follows the Pomodoro technique with 25-minute work sessions followed by 5-minute breaks.
+- **Pomodoro Technique**: The timer follows the Pomodoro technique.
 
 - **Customizable Settings**: Adjust the timer duration based on your preferences.
 
