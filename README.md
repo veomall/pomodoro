@@ -12,7 +12,7 @@ Welcome to the Pomodoro Timer! This simple Pomodoro timer is designed to help yo
 
 ## Getting Started
 
-1. Clone the repository to your local machine:
+1. Clone the repository or download zip:
 
     ```bash
     git clone https://github.com/veomall/pomodoro.git
@@ -24,8 +24,8 @@ Welcome to the Pomodoro Timer! This simple Pomodoro timer is designed to help yo
     cd pomodoro
     ```
 
-3. Run the Pomodoro timer:
+3. Run the `pomodoro.exe`:
 
     ```bash
-    main.exe
+    pomodoro.exe
     ```
