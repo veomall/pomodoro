@@ -26,8 +26,8 @@ Welcome to the Pomodoro Timer! This simple Pomodoro timer is designed to help yo
     cd pomodoro
     ```
 
-3. Run the `pomodoro.exe`:
+3. Run the `Pomodoro.exe`:
 
     ```bash
-    pomodoro.exe
+    Pomodoro.exe
     ```
