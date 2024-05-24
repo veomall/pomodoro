@@ -6,7 +6,9 @@ Welcome to the Pomodoro Timer! This simple Pomodoro timer is designed to help yo
 
 - **Pomodoro Technique**: The timer follows the Pomodoro technique.
 
-- **Customizable Settings**: Adjust the timer duration based on your preferences.
+- **Customizable Settings**: You can set your own work and rest time settings. You can also enable micro-rests to take a 10-second break every 2-3 minutes.
+
+- **Does not distract**: Timer can be translucent so as not to interfere with work.
 
 - **Notifications**: Receive notifications when a Pomodoro session is complete.
 
